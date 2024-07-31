@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/team-sla/static/css/main.f855e6bc.css",
+    "main.js": "/team-sla/static/js/main.72eadfd8.js",
+    "static/js/453.c489ac0e.chunk.js": "/team-sla/static/js/453.c489ac0e.chunk.js",
+    "index.html": "/team-sla/index.html",
+    "main.f855e6bc.css.map": "/team-sla/static/css/main.f855e6bc.css.map",
+    "main.72eadfd8.js.map": "/team-sla/static/js/main.72eadfd8.js.map",
+    "453.c489ac0e.chunk.js.map": "/team-sla/static/js/453.c489ac0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.72eadfd8.js"
+  ]
+}
